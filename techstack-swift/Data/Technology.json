@@ -1,0 +1,50 @@
+[
+    {
+        "id":0,
+        "name":"Swift",
+        "numberOfCapableHumans": 1,
+        "imageName":"swift"
+    },
+    {
+        "id":1,
+        "name":"SwiftUI",
+        "numberOfCapableHumans": 1,
+        "imageName":"SwiftUI"
+    },
+    {
+        "id":2,
+        "name":"Java",
+        "numberOfCapableHumans": 3,
+        "imageName":"java"
+    },
+    {
+        "id":3,
+        "name":"Kotlin",
+        "numberOfCapableHumans": 3,
+        "imageName":"Kotlin"
+    },
+    {
+        "id":4,
+        "name":"GO",
+        "numberOfCapableHumans": 3,
+        "imageName":"GO"
+    },
+    {
+        "id":5,
+        "name":"C++",
+        "numberOfCapableHumans": 0,
+        "imageName":"C++"
+    },
+    {
+        "id":6,
+        "name":"C",
+        "numberOfCapableHumans": 0,
+        "imageName":"C"
+    },
+    {
+        "id":7,
+        "name":"C#",
+        "numberOfCapableHumans": 0,
+        "imageName":"C#"
+    }
+]
